@@ -16,8 +16,8 @@ a:focus-visible { outline: 2px solid var(--link); outline-offset: 5px; }
 .site { display: grid; grid-template-columns: 280px minmax(0, 1fr); column-gap: 56px; max-width: 1104px; margin: 64px auto 80px; padding: 0 40px; }
 .profile { align-self: start; position: sticky; top: 40px; }
 .portrait-frame { position: relative; overflow: hidden; width: 280px; max-width: 100%; aspect-ratio: 4 / 5; }
-/* Upper-body framing with flowering branches: x=350, y=450, w=740, h=925. */
-.portrait { position: absolute; display: block; width: 204.324324%; max-width: none; height: auto; left: -47.297297%; top: -48.648649%; }
+/* Upper-body framing with flowering branches: x=400, y=610, w=660, h=825. */
+.portrait { position: absolute; display: block; width: 229.090909%; max-width: none; height: auto; left: -60.606061%; top: -73.939394%; }
 .name { margin: 22px 0 11px; font: 29px/1.2 var(--body); color: #202020; }
 .affiliation { font: 14px/1.6 var(--sans); color: var(--secondary); margin: 0 0 16px; }
 .email { font: 14px/1.5 var(--sans); }
