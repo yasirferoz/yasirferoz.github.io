@@ -31,7 +31,6 @@ h1 { font: 29px/1.25 var(--body); margin: 0 0 23px; }
 h2 { font: 18px/1.4 var(--sans); font-weight: 500; margin: 0 0 18px; }
 p { margin: 0 0 19px; }
 .biography p { margin-bottom: 22px; }
-.research-overview { margin-bottom: 30px; }
 section + section { margin-top: 34px; }
 .papers { padding: 0 0 0 25px; margin: 0; }
 .papers li { padding-left: 7px; margin: 0 0 22px; }
@@ -39,7 +38,6 @@ section + section { margin-top: 34px; }
 .paper-title { line-height: 1.45; margin: 0 0 5px; }
 .paper-details, .course-term { font-size: 15px; line-height: 1.55; color: var(--secondary); }
 .paper-details { margin: 0; }
-.paper-summary { font-size: 16px; line-height: 1.6; margin: 8px 0 0; }
 .paper-details a { white-space: nowrap; }
 .talks { list-style: none; margin: 0; padding: 0; }
 .talks li { margin: 0 0 21px; }
